@@ -8,7 +8,7 @@ chatbaton spots a visitor who needs a person without calling a model, lets someo
 
 ## Get it
 
-Buy chatbaton at https://dominares.org/tools/chatbaton: one payment of $149, plus sales tax where it applies, and every future update. After checkout you are invited to a private GitHub repository with the source and every version published to it. The repository includes the Python package and the chatbaton command, the browser widget, a reference server with an operator page, and the full test suite.
+Buy chatbaton at https://dominares.org/tools/chatbaton: one payment of $149, plus sales tax where it applies, and every future update. After checkout you are invited to a private GitHub repository with the source and every version published to it. The repository includes the Python package and the chatbaton command, the browser widget, a reference server with an operator page, and the test suite.
 
 Requirements: Python 3.10 or newer, no runtime dependencies. Node is optional, for the widget's own tests.
 
